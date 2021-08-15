@@ -7,12 +7,12 @@ draft: false
 
 ## 目的
 
-**** Hugo で走っているこのサイトに記事を投稿するまでの手順を整理しておく
+* Hugo で走っているこのサイトに記事を投稿するまでの手順を整理しておく
 
 ## 環境
 
 * Linux Mint 19.1 Tessa
-* Hugo hugo v0.87.0, extended
+* Hugo v0.87.0, extended
 
 ## 参照
 
@@ -34,4 +34,5 @@ draft: false
 \gamma = \frac{1}{\sqrt{1-\left(\frac{v}{c}\right)^2}}
 ```
 
+追記：KaTeX 対応してない模様？
 
