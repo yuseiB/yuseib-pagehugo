@@ -1,0 +1,4 @@
+baseURL = 'http://yuseib.pages.dev/'
+languageCode = 'ja-jp'
+title = 'My New Hugo Site'
+theme = "ananke"
